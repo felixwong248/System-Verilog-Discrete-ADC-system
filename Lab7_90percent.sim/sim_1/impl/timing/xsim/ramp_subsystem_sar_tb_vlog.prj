@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"ramp_subsystem_sar_tb_time_impl.v" \
+
+sv xil_defaultlib  --include "../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../../averager_simple.sv" \
+"../../../../../comparator_capture.sv" \
+"../../../../../downcounter.sv" \
+"../../../../../pwm.sv" \
+"../../../../../ramp_subsystem_90.sv" \
+"../../../../../sar_fsm.sv" \
+"../../../../../sawtooth_waveform_90.sv" \
+"../../../../../synchronizer.sv" \
+"../../../../../ramp_capture_sar_tb.sv" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,38 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L uvm -L simprims_ver -L secureip --snapshot ramp_subsystem_sar_tb_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.ramp_subsystem_sar_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/ramp_subsystem_90.sv" Line 1. Module ramp_subsystem doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/sawtooth_waveform_90.sv" Line 1. Module sawtooth_generator(WAVE_FREQ=50.0) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/downcounter.sv" Line 1. Module downcounter(PERIOD=7843) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/pwm.sv" Line 1. Module pwm doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/averager_simple.sv" Line 47. Module averager_simple doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/comparator_capture.sv" Line 1. Module comparator_capture doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/synchronizer.sv" Line 1. Module synchronizer doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/sar_fsm.sv" Line 6. Module sar_fsm doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/ramp_subsystem_90.sv" Line 1. Module ramp_subsystem doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/sawtooth_waveform_90.sv" Line 1. Module sawtooth_generator(WAVE_FREQ=50.0) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/downcounter.sv" Line 1. Module downcounter(PERIOD=7843) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/pwm.sv" Line 1. Module pwm doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/averager_simple.sv" Line 47. Module averager_simple doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/comparator_capture.sv" Line 1. Module comparator_capture doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/synchronizer.sv" Line 1. Module synchronizer doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/ENEL453_Vivado/Lab7_90percent/sar_fsm.sv" Line 6. Module sar_fsm doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.downcounter(PERIOD=7843)
+Compiling module xil_defaultlib.pwm
+Compiling module xil_defaultlib.sawtooth_generator(WAVE_FREQ=50....
+Compiling module xil_defaultlib.averager_simple
+Compiling module xil_defaultlib.comparator_capture
+Compiling module xil_defaultlib.synchronizer
+Compiling module xil_defaultlib.sar_fsm
+Compiling module xil_defaultlib.ramp_subsystem
+Compiling module xil_defaultlib.ramp_subsystem_sar_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot ramp_subsystem_sar_tb_time_impl

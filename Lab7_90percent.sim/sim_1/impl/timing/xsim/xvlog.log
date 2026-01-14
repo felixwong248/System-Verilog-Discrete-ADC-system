@@ -1,0 +1,42 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/ENEL453_Vivado/Lab7_90percent/Lab7_90percent.sim/sim_1/impl/timing/xsim/ramp_subsystem_sar_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module averager_simple
+INFO: [VRFC 10-311] analyzing module bin_to_bcd
+INFO: [VRFC 10-311] analyzing module comparator_capture
+INFO: [VRFC 10-311] analyzing module digit_multiplexor
+INFO: [VRFC 10-311] analyzing module downcounter
+INFO: [VRFC 10-311] analyzing module lab_7_top_level
+INFO: [VRFC 10-311] analyzing module pwm
+INFO: [VRFC 10-311] analyzing module ramp_subsystem
+INFO: [VRFC 10-311] analyzing module sar_fsm
+INFO: [VRFC 10-311] analyzing module sawtooth_generator
+INFO: [VRFC 10-311] analyzing module seven_segment_digit_selector
+INFO: [VRFC 10-311] analyzing module seven_segment_display_subsystem
+INFO: [VRFC 10-311] analyzing module synchronizer
+INFO: [VRFC 10-311] analyzing module values_mux
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/averager_simple.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module averager_simple
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'averager_simple' [C:/ENEL453_Vivado/Lab7_90percent/averager_simple.sv:47]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/comparator_capture.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_capture
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'comparator_capture' [C:/ENEL453_Vivado/Lab7_90percent/comparator_capture.sv:1]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/downcounter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module downcounter
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'downcounter' [C:/ENEL453_Vivado/Lab7_90percent/downcounter.sv:1]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/pwm.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'pwm' [C:/ENEL453_Vivado/Lab7_90percent/pwm.sv:1]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/ramp_subsystem_90.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ramp_subsystem
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'ramp_subsystem' [C:/ENEL453_Vivado/Lab7_90percent/ramp_subsystem_90.sv:1]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/sar_fsm.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sar_fsm
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'sar_fsm' [C:/ENEL453_Vivado/Lab7_90percent/sar_fsm.sv:6]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/sawtooth_waveform_90.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sawtooth_generator
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'sawtooth_generator' [C:/ENEL453_Vivado/Lab7_90percent/sawtooth_waveform_90.sv:1]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/synchronizer.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module synchronizer
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'synchronizer' [C:/ENEL453_Vivado/Lab7_90percent/synchronizer.sv:1]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/ramp_capture_sar_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ramp_subsystem_sar_tb

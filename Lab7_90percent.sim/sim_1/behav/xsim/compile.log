@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/sar_fsm.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sar_fsm
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/ENEL453_Vivado/Lab7_90percent/sar_fsm_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sar_fsm_tb

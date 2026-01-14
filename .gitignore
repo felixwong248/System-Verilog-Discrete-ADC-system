@@ -1,0 +1,19 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Vivado project file (optional – keep if required)
+# *.xpr
+
+# OS junk
+.DS_Store
+Thumbs.db
+

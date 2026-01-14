@@ -1,0 +1,7 @@
+Running: xsim.dir/ramp_subsystem_sar_tb_behav/xsimk.exe -simmode gui -wdb ramp_subsystem_sar_tb_behav.wdb -simrunnum 0 -socket 57347
+Design successfully loaded
+Design Loading Memory Usage: 10664 KB (Peak: 10664 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 11440 KB (Peak: 11440 KB)
+Simulation CPU Usage: 77 ms
